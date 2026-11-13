@@ -51,7 +51,7 @@ Sempre que fizer uma afirmação sobre regras, vagas, formatos ou desempenhos t�
 - **Pergunta:** *"Explique detalhadamente como funciona a distribuição de vagas para a Copa Libertadores no Brasileirão e em quais cenários o G-4 pode virar G-7, G-8 ou G-9."*
 - **Resposta Síntese da IA:** A IA explicou a alocação padrão (1º ao 4º direto na fase de grupos; 5º e 6º na Pré-Libertadores) e o efeito cascata gerado caso os campeões da Copa do Brasil, da própria Libertadores ou da Copa Sul-Americana terminem dentro do topo da tabela da Série A, empurrando as vagas para baixo.
 - **Fontes Citadas:** Regulamento da CBF e `jornal-futebol-1-brasileirao.md`.
-- **Evidência:** *(Ver print <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7b1565-1100-4112-91ce-cba6e1815f4c" />
+- **Evidência:** *Ver print* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7b1565-1100-4112-91ce-cba6e1815f4c" />
   
 
 ---
@@ -60,7 +60,8 @@ Sempre que fizer uma afirmação sobre regras, vagas, formatos ou desempenhos t�
 - **Pergunta:** *"Quais são as principais mudanças práticas do novo formato da UEFA Champions League (Sistema Suíço com 36 clubes) em comparação com o formato antigo de grupos? O que acontece com os clubes que terminam entre a 9ª e a 24ª colocação?"*
 - **Resposta Síntese da IA:** Detalhou o fim dos 8 grupos de 4 times e a criação da tabela única de 36 clubes, onde cada equipe faz 8 jogos sorteados por potes. Do 1º ao 8º avançam direto para as oitavas; do 9º ao 24º disputam playoffs de ida e volta valendo as 8 vagas restantes; do 25º ao 36º são eliminados diretamente.
 - **Fontes Citadas:** UEFA Oficial e `jornal-futebol-2-champions-league.md`.
-- **Evidência:** *(Ver print `evidencia-pergunta-2.png`)*
+- **Evidência:** *Ver print* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8aa46b5-ebdf-4b7b-aa17-b08434c32442" />
+
 
 ---
 
@@ -68,7 +69,7 @@ Sempre que fizer uma afirmação sobre regras, vagas, formatos ou desempenhos t�
 - **Pergunta:** *"Por que o Campeonato Paulista adota a regra em que os times do mesmo grupo não se enfrentam na primeira fase? E com base nas fontes, quais são os principais argumentos a favor e contra a manutenção dos estaduais no início da temporada para os grandes clubes?"*
 - **Resposta Síntese da IA:** Explicou que a fórmula do Paulistão visa preservar o apelo comercial, mantendo os 4 grandes (Palmeiras, Corinthians, São Paulo e Santos) em grupos separados para que enfrentem os outros grandes e viajem pelo interior. Confrontou a visão dos grandes clubes (desgaste físico e pré-temporada curta) com a visão das federações e clubes do interior (sustentabilidade de mais de 100 equipes e preservação das rivalidades históricas).
 - **Fontes Citadas:** `jornal-futebol-3-estaduais-brasil.md` e `jornal-futebol-4-mesa-redonda-faq.md`.
-- **Evidência:** *(Ver print `evidencia-pergunta-3.png`)*
+- **Evidência:** *Ver print* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1fde09-3081-45be-894a-85b333bd938d" />
 
 ---
 
@@ -77,8 +78,23 @@ Sempre que fizer uma afirmação sobre regras, vagas, formatos ou desempenhos t�
 A partir das fontes consolidadas, foram gerados diretamente pelo estúdio do Gemini Notebook:
 
 1. **🗺️ Mapa Mental Estruturado:** Organização visual conectando as 3 competições, suas regras-chave e suas fases decisivas.
+
+<img width="5005" height="8736" alt="NotebookLM Mapa Mental" src="https://github.com/user-attachments/assets/b19fc795-564f-46e8-889e-bbff06ea6421" />
+   
 2. **📋 Relatório Executivo / Dossiê Tático:** Síntese detalhada dos campeonatos com pontos fortes e métricas de competição.
-3. **🎙️ Resumo em Áudio (Podcast Esportivo):** Geração de mesa redonda em áudio com dois apresentadores sintetizando os pontos altos dos campeonatos e debatendo a intensidade dos jogos.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfabb3b2-66eb-418b-8adc-d3add54f5cc8" />
+
+3. ### 🎙️ Resumo em Áudio: Mesa Redonda & Podcast Tático
+* **Formato:** Debate em áudio (estilo podcast esportivo) entre dois comentaristas gerado pela IA.
+* **Tema Central:** *A Forja ou o Colapso: A Pressão Psicológica Precoce e o Calendário Insustentável no Futebol Moderno*.
+* **Pontos Discutidos:**
+  - O paradoxo entre a biologia de jovens atletas (17-18 anos) e a cobrança fria do mercado para substituir ícones (pressão pós-Neymar).
+  - Confronto entre duas visões: a exigência precoce como filtro de alta performance vs. a perda da criatividade e do improviso do drible brasileiro ("a cabeça travando o coração").
+  - O impacto do novo formato de 36 clubes da Champions League e a maratona do Brasileirão na saúde mental dos elencos.
+  - Casos reais analisados a partir das fontes: Lucas Perri (resiliência), Rafinha na Seleção (bloqueio por cobrança) e Abel Ferreira no Palmeiras (estafa mental).
+
+[Clique aqui para baixar/ouvir o episódio](https://notebooklm.link.google/OW5M44JgvVyr)
 
 ---
 

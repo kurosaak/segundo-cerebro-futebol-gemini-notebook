@@ -4,7 +4,7 @@
 > **Projeto Desenvolvido para o Desafio DIO:** *Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM / Gemini Notebook*.  
 > **Tema:** Jornalismo Esportivo, Regulamentos e Análise Tática (Brasileirão, UEFA Champions League e Estaduais do Brasil).  
 > **Autor:** Rodrigo  
-> **Link do Notebook Público:** https://notebook.google.com/notebook/478568c8-87a5-4be9-b1b6-fceb221c1666)
+> **Link do Notebook Público:** https://notebook.google.com/notebook/478568c8-87a5-4be9-b1b6-fceb221c1666
 
 ---
 

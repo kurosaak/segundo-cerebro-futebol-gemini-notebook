@@ -51,8 +51,8 @@ Sempre que fizer uma afirmação sobre regras, vagas, formatos ou desempenhos t�
 - **Pergunta:** *"Explique detalhadamente como funciona a distribuição de vagas para a Copa Libertadores no Brasileirão e em quais cenários o G-4 pode virar G-7, G-8 ou G-9."*
 - **Resposta Síntese da IA:** A IA explicou a alocação padrão (1º ao 4º direto na fase de grupos; 5º e 6º na Pré-Libertadores) e o efeito cascata gerado caso os campeões da Copa do Brasil, da própria Libertadores ou da Copa Sul-Americana terminem dentro do topo da tabela da Série A, empurrando as vagas para baixo.
 - **Fontes Citadas:** Regulamento da CBF e `jornal-futebol-1-brasileirao.md`.
-- **Evidência:** *(Ver print `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7b1565-1100-4112-91ce-cba6e1815f4c" />
-`)*
+- **Evidência:** *(Ver print <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7b1565-1100-4112-91ce-cba6e1815f4c" />
+  
 
 ---
 
